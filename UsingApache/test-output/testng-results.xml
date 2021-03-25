@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="138660" started-at="2020-09-02T19:26:08 IST" finished-at="2020-09-02T19:28:26 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="138660" started-at="2020-09-02T19:26:08 IST" finished-at="2020-09-02T19:28:26 IST">
+      <class name="TestNGproject.baseClass">
+        <test-method status="PASS" signature="setup()[pri:0, instance:TestNGproject.baseClass@1efed156]" name="setup" is-config="true" duration-ms="137023" started-at="2020-09-02T19:26:08 IST" finished-at="2020-09-02T19:28:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="writeToExcel()[pri:0, instance:TestNGproject.baseClass@1efed156]" name="writeToExcel" duration-ms="428" started-at="2020-09-02T19:28:25 IST" finished-at="2020-09-02T19:28:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- writeToExcel -->
+      </class> <!-- TestNGproject.baseClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
